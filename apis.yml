@@ -1,8 +1,28 @@
 aid: thesis
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/thesis.png
 name: Thesis
-description: 'Thesis is a company surfaced as a portfolio company of crv, polychain and added to the API
-  Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Thesis Care is a healthcare AI company that deploys clinical support agents
+  backed by expert clinicians — nurses and care managers — to help physician
+  groups, health systems, and health plans scale care management, care
+  delivery, and clinical operations. Its platform pairs automation with human
+  clinical oversight so work gets done end-to-end to deliver outcomes rather
+  than create more work, handling the complex cases and edge scenarios that
+  pure technology cannot. The company is SOC 2 Type II and HIPAA compliant and
+  has announced a Series A round. Thesis Care publishes no public API or
+  developer surface at this time; this API Evangelist profile captures the
+  company's identity, security posture, and published compliance program.
 url: https://raw.githubusercontent.com/api-evangelist/thesis/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +33,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Healthcare
+- Artificial Intelligence
+- Clinical
+- Care Management
+- Health Plans
+- AI Agents
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +51,26 @@ maintainers:
 common:
 - type: Website
   url: https://thesiscare.com/
+- type: About
+  url: https://thesiscare.com/about
+- type: PrivacyPolicy
+  url: https://thesiscare.com/privacy
+- type: TermsOfService
+  url: https://thesiscare.com/terms
+- type: SignUp
+  url: https://thesiscare.com/book-demo
+- type: LinkedIn
+  url: https://www.linkedin.com/company/thesiscare
+- type: TrustCenter
+  url: security/thesis-trust-center.yml
+- type: Compliance
+  url: https://thesiscare.com/security
+- type: Conformance
+  url: conformance/thesis-conformance.yml
+- type: DomainSecurity
+  url: security/thesis-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

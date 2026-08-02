@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: searched
+source: https://thesiscare.com/security
+note: >-
+  Thesis Care publishes no public OpenAPI or developer surface, so standards
+  conformance cannot be derived from a spec. The entries below are the
+  compliance programs the company publishes on its security page and trust
+  portal (trust.thesis.care).
+standards:
+- id: soc2-type2
+  name: SOC 2 Type II
+  conforms: true
+  evidence: security page + trust portal badge (SOC 2 Type II)
+- id: hipaa
+  name: HIPAA
+  conforms: true
+  evidence: security page + trust portal badge (HIPAA compliant)
