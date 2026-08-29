@@ -35,6 +35,9 @@ description: >-
   developer surface at this time; this API Evangelist profile captures the
   company's identity, security posture, and published compliance program.
 url: https://raw.githubusercontent.com/api-evangelist/thesis/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Thesis Care publishes no public API or developer surface at this time; this API Evangelist profile captures the company's identity, security posture, and published compliance program."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
