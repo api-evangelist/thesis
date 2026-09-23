@@ -1,0 +1,29 @@
+# Front Door AI Index — thesis — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: thesis
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: thesiscare.com
+  final_host: thesiscare.com
+  ownership: own
+  owner: thesis
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 7
+  host_score: 7
+  density: 16.32
+  words: 429
+  tiers:
+    agentic: 2
+    core: 5
+    model: 0
+  ambiguous: 12
+  top_terms:
+    agent: 10
+    AI: 5
+    automation: 2
+    AI agent: 1
+    copilot: 1
