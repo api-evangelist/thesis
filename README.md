@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Thesis is a company surfaced as a portfolio company of crv, polychain and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment pipeline.
+Thesis Care is a healthcare AI company that deploys clinical support agents backed by expert clinicians — nurses and care managers — to help physician groups, health systems, and health plans scale care management, care delivery, and clinical operations. Its platform pairs automation with human clinical oversight so work gets done end-to-end to deliver outcomes rather than create more work, handling the complex cases and edge scenarios that pure technology cannot. The company is SOC 2 Type II and HIPAA compliant and has announced a Series A round. Thesis Care publishes no public API or developer surface at this time; this API Evangelist profile captures the company's identity, security posture, and published compliance program.
 
-Backed by: crv, polychain — https://thesiscare.com/
+**Areas:** Company · Healthcare · Artificial Intelligence · Clinical · Care Management · Health Plans · AI Agents
+
+## Thesis on APIs.io
+
+Everything profiled for Thesis is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/thesis/](https://apis.io/providers/thesis/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Thesis Domain Security](https://apis.io/security/thesis/thesis-domain-security/)
+- [Thesis Trust Center](https://apis.io/security/thesis/thesis-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://thesiscare.com/)
+- [Sign up](https://thesiscare.com/book-demo)
+- [Blog](https://thesiscare.com/news)
+- [Compliance](https://thesiscare.com/security)
+- [Terms of service](https://thesiscare.com/terms)
+- [Privacy policy](https://thesiscare.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 18.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.6** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/thesis/](https://apis.io/providers/thesis/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Thesis: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/thesis/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
